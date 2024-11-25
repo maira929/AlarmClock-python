@@ -45,3 +45,4 @@ get_sec = Entry(clock, textvariable=sec,bg="pink",width=15).place(x=200,y=30)
 
 submit = Button(clock,text="submit" , fg="red" , width=10 ,command = actual_time).place(x=200,y=70)
 clock.mainloop()
+#main
